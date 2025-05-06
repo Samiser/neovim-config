@@ -23,8 +23,8 @@ maximal: {
       lua.enable = maximal;
       markdown.enable = maximal;
       nix.enable = maximal;
-      ocaml.enable = maximal;
       python.enable = maximal;
+      svelte.enable = maximal;
     };
 
     visuals = {
