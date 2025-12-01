@@ -4,6 +4,7 @@ maximal: {
     vimAlias = true;
 
     lsp = {
+      enable = maximal;
       formatOnSave = maximal;
       lightbulb.enable = maximal;
       trouble.enable = maximal;
@@ -11,7 +12,6 @@ maximal: {
     };
 
     languages = {
-      enableLSP = maximal;
       enableFormat = maximal;
       enableTreesitter = maximal;
       enableExtraDiagnostics = maximal;
